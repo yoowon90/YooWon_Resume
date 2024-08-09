@@ -1,3 +1,3 @@
 ## Welcome!
 
-To view my Resume, please see pdf in this repo.
+To view my resume, please see pdf in this repo.
