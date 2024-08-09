@@ -2,6 +2,14 @@
 
 To view my resume, please see pdf in this repo.
 
+<br/>
+
 ### Download
 
-To download my resume as pdf and keep a static copy, please click "Download raw file" after opening my resume.
+To download my resume as pdf and keep a static copy, please click `Download raw file` button after opening my resume.
+
+<br/>
+
+### To know more...
+
+To know more about myself, please see [my LinkedIn page](linkedin.com/in/yoowon).
